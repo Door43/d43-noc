@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[noc:home|Door43 (noc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-noc|d43-noc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-noc/archive/master.zip|d43-noc.zip]]
+
+**Recent Changes**
+{{changes>ns = noc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/noc|Ethnologue data]]
+
